@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 #MAC address of rotating IP's interface:
-MAC=12:e4:7c:ab:99:52
+#MAC=12:e4:7c:ab:99:52
 
 case $1 in
     'start' )
